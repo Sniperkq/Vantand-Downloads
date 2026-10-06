@@ -1,13 +1,21 @@
 # Vantand
 
-Windows-x64-Installer für Vantand.
+Windows-x64-Launcher für Dying Light 1, Europa Universalis IV und Roblox.
 
 ## Download
 
-[Installer herunterladen](https://github.com/Sniperkq/Vantand-Downloads/releases/download/v1.6.1/Vantand-Setup-1.6.1.exe)
+[Installer 1.7.0 herunterladen](https://github.com/Sniperkq/Vantand-Downloads/releases/download/v1.7.0/Vantand-Setup-1.7.0.exe)
 
-[Alle veröffentlichten Installer](https://github.com/Sniperkq/Vantand-Downloads/releases)
+[Aktuelle Version und Änderungsprotokoll](https://github.com/Sniperkq/Vantand-Downloads/releases/latest)
 
-Version 1.6.1 enthält Dying Light 1, Europa Universalis IV und Roblox. Dying Light und EU4 sind für Singleplayer vorgesehen. Roblox wird auf Wunsch als Working angezeigt; die Einstufung ist manuell.
+Download und automatische Updates funktionieren ohne GitHub-Anmeldung oder Token.
 
-Dieses Repository enthält nur Downloads und diese Kurzbeschreibung. Der Anwendungsquellcode bleibt privat. Automatische Updates im Launcher verwenden derzeit weiterhin den privaten Updatekanal und benötigen entsprechenden Zugriff.
+## Automatische Updates
+
+Ab **1.7.0** prüft Vantand bei aktivierten automatischen Updates beim Start und alle sechs Stunden auf neue Versionen. Ein Hinweis im Launcher zeigt die neue Version an; das Paket wird im Hintergrund heruntergeladen und geprüft. Mit **Jetzt neu starten** oder **Beim Beenden installieren** wird es installiert. Einstellungen bleiben erhalten.
+
+**Bereits 1.6.x oder älter installiert?** Einmal den aktuellen Installer ausführen. Danach ist kein manuelles Herunterladen neuer Versionen mehr nötig.
+
+Dying Light und EU4 sind für Singleplayer vorgesehen; das EU4-Menü funktioniert nicht im Multiplayer.
+
+Dieses Repository enthält den Installer, signierte Updatepakete und diese Kurzbeschreibung. Der Anwendungsquellcode bleibt privat.
