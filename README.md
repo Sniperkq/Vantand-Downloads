@@ -4,7 +4,7 @@ Windows-x64-Launcher für Dying Light 1, Europa Universalis IV, Roblox und Groun
 
 ## Download
 
-[Installer 1.8.0 herunterladen](https://github.com/Sniperkq/Vantand-Downloads/releases/download/v1.8.0/Vantand-Setup-1.8.0.exe)
+[Installer 1.8.1 herunterladen](https://github.com/Sniperkq/Vantand-Downloads/releases/download/v1.8.1/Vantand-Setup-1.8.1.exe)
 
 [Aktuelle Version und Änderungsprotokoll](https://github.com/Sniperkq/Vantand-Downloads/releases/latest)
 
@@ -23,3 +23,7 @@ Dieses Repository enthält den Installer, signierte Updatepakete und diese Kurzb
 ## Grounded
 
 Neu in **1.8.0**: Grounded mit eigener Grafik und integrierter Cheat-Engine-Anleitung. Die Originaltabelle 1.3.1 liegt unverändert bei. Unter **Games → Grounded → Tabelle laden** öffnen, in Cheat Engine den Prozess **Maine-Win64-Shipping.exe** auswählen und **[[ ENABLE ]]** manuell aktivieren. Die Kompatibilität mit deiner Spielversion ist noch ungeprüft; Status **Development**. Die Anleitung behandelt Singleplayer.
+
+## Darstellung
+
+Neu in **1.8.1**: Dezenter animierter Hintergrund mit violetten Lichtverläufen und feinen Kurven. Unter **Settings → Darstellung → Animationen reduzieren** bleibt er statisch. Inaktive und minimierte Fenster pausieren die Animation.
