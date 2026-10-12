@@ -4,7 +4,7 @@ Windows-x64-Launcher für Dying Light 1, Europa Universalis IV, Green Hell, Grou
 
 ## Download
 
-[Installer 1.9.1 herunterladen](https://github.com/Sniperkq/Vantand-Downloads/releases/download/v1.9.1/Vantand-Setup-1.9.1.exe)
+[Installer 1.9.2 herunterladen](https://github.com/Sniperkq/Vantand-Downloads/releases/download/v1.9.2/Vantand-Setup-1.9.2.exe)
 
 [Aktuelle Version und Änderungsprotokoll](https://github.com/Sniperkq/Vantand-Downloads/releases/latest)
 
@@ -30,10 +30,10 @@ Neu in **1.8.1**: Dezenter animierter Hintergrund mit violetten Lichtverläufen 
 
 Neu in **1.8.2**: Eigenes Roblox-Motiv mit einer Blockfigur, schwebenden Plattformen und einem Portal in Blau-Violett für Spielkarte und Dashboard. Die dezente Bewegung berücksichtigt die Einstellung für reduzierte Animationen.
 
-Neu in **1.9.1**: Alle vier Spielmotive bewegen sich langsam mit sanftem Schwenk und Zoom. Sie pausieren beim Tab- oder Fokuswechsel an ihrer aktuellen Position. Der Launcher-Hintergrund ist etwas kräftiger; **Animationen reduzieren** zeigt die Motive weiterhin statisch.
+Neu in **1.9.2**: Alle vier Spielmotive bewegen sich langsam mit sanftem Schwenk und Zoom. Sie pausieren beim Tab- oder Fokuswechsel an ihrer aktuellen Position. Der Launcher-Hintergrund ist etwas kräftiger; **Animationen reduzieren** zeigt die Motive weiterhin statisch.
 
-## Neu in 1.9.1
+## Neu in 1.9.2
 
-The Forest und Green Hell sind mit eigenen animierten Hintergründen auf Development enthalten. The Forest nutzt die mitgelieferte Cheat-Engine-Tabelle; Green Hell den integrierten Mono-Injector. Die Green-Hell-DLL benötigt eine passende BepInEx-5-/Harmony-Installation und Mono-Spielversion. Die Spielkompatibilität ist ungeprüft.
+The Forest und Green Hell sind mit eigenen animierten Hintergründen auf Working enthalten (manuell gesetzt). The Forest nutzt die mitgelieferte Cheat-Engine-Tabelle; Green Hell den integrierten Mono-Injector. Die Green-Hell-DLL benötigt eine passende BepInEx-5-/Harmony-Installation und Mono-Spielversion. Die Spielkompatibilität ist ungeprüft.
 
-Grounded steht auf Working (manuell gesetzt). Alle Spiele sind alphabetisch sortiert. Roblox hat eine integrierte Launch-Anleitung: Spiel zuerst öffnen, Launch wählen, nach „External läuft“ kann Vantand geschlossen werden.
+Roblox steht auf Development. Grounded steht auf Working (manuell gesetzt). Alle Spiele sind alphabetisch sortiert. Roblox hat eine integrierte Launch-Anleitung: Spiel zuerst öffnen, Launch wählen, nach „External läuft“ kann Vantand geschlossen werden.
