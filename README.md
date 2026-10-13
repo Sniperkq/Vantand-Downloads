@@ -4,7 +4,7 @@ Windows-x64-Launcher für Dying Light 1, Europa Universalis IV, Green Hell, Grou
 
 ## Download
 
-[Installer 1.11.1 herunterladen](https://github.com/Sniperkq/Vantand-Downloads/releases/download/v1.11.1/Vantand-Setup-1.11.1.exe)
+[Installer 1.11.2 herunterladen](https://github.com/Sniperkq/Vantand-Downloads/releases/download/v1.11.2/Vantand-Setup-1.11.2.exe)
 
 [Aktuelle Version und Änderungsprotokoll](https://github.com/Sniperkq/Vantand-Downloads/releases/latest)
 
@@ -20,9 +20,13 @@ Dying Light und EU4 sind für Singleplayer vorgesehen; das EU4-Menü funktionier
 
 Dieses Repository enthält den Installer, signierte Updatepakete und diese Kurzbeschreibung. Der Anwendungsquellcode bleibt privat.
 
+## Spielreihenfolge in 1.11.2
+
+Dashboard und Bibliothek zeigen Working zuerst und Development danach. Innerhalb der Gruppen bleiben die Spiele alphabetisch sortiert.
+
 ## Menü in 1.11.1
 
-Das Dashboard zeigt sechs anklickbare Spielkarten mit Vorschaubildern. Systemstatus und Updates stehen nebeneinander. Eine feste alphabetische Bibliothek bleibt neben den größeren Spielansichten sichtbar und lässt sich bei wenig Platz scrollen.
+Das Dashboard zeigt sechs anklickbare Spielkarten mit Vorschaubildern. Systemstatus und Updates stehen nebeneinander. Eine feste nach Status sortierte Bibliothek bleibt neben den größeren Spielansichten sichtbar und lässt sich bei wenig Platz scrollen.
 
 Updateprüfung und Updateoptionen stehen in Settings zusammen. Programmpfade sind eingeklappt und werden über die Suche geöffnet. Abstände, Typografie, Karten und Anleitungsschaltflächen sind vereinheitlicht.
 ## Neu in 1.10.2
