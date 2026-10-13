@@ -4,7 +4,7 @@ Windows-x64-Launcher für Dying Light 1, Europa Universalis IV, Green Hell, Grou
 
 ## Download
 
-[Installer 1.9.2 herunterladen](https://github.com/Sniperkq/Vantand-Downloads/releases/download/v1.9.2/Vantand-Setup-1.9.2.exe)
+[Installer 1.10.2 herunterladen](https://github.com/Sniperkq/Vantand-Downloads/releases/download/v1.10.2/Vantand-Setup-1.10.2.exe)
 
 [Aktuelle Version und Änderungsprotokoll](https://github.com/Sniperkq/Vantand-Downloads/releases/latest)
 
@@ -20,9 +20,16 @@ Dying Light und EU4 sind für Singleplayer vorgesehen; das EU4-Menü funktionier
 
 Dieses Repository enthält den Installer, signierte Updatepakete und diese Kurzbeschreibung. Der Anwendungsquellcode bleibt privat.
 
+## Neu in 1.10.2
+
+Strg K öffnet die Suche nach Spielen, Einstellungen und Anleitungen. Fehlerdetails enthalten den betroffenen Schritt, einen Lösungsvorschlag und die erkannten Versionsinformationen.
+
+Unter Settings prüft Installation reparieren die Programmdateien gegen ein signiertes Paket. Fehlende oder veränderte Dateien werden wiederhergestellt. Einstellungen bleiben erhalten. Ein lokales geprüftes Paket ermöglicht auch eine Offline-Reparatur.
+
+Ein bereitliegendes älteres Update blockiert die Suche nach neueren Versionen nicht mehr. Verbindungsfehler erhalten ein bereits geprüftes Paket. Downloads und Updates benötigen keinen Token. Der öffentliche Updateablauf wurde mit einem tatsächlich ausgelieferten Client 1.9.2 und der neuen Version 1.10.2 getestet.
 ## Grounded
 
-Neu in **1.8.0**: Grounded mit eigener Grafik und integrierter Cheat-Engine-Anleitung. Die Originaltabelle 1.3.1 liegt unverändert bei. Unter **Games → Grounded → Tabelle laden** öffnen, in Cheat Engine den Prozess **Maine-Win64-Shipping.exe** auswählen und **[[ ENABLE ]]** manuell aktivieren. Die Kompatibilität mit deiner Spielversion ist noch ungeprüft; Status **Development**. Die Anleitung behandelt Singleplayer.
+Neu in **1.8.0**: Grounded mit eigener Grafik und integrierter Cheat-Engine-Anleitung. Die Originaltabelle 1.3.1 liegt unverändert bei. Unter **Games → Grounded → Tabelle laden** öffnen, in Cheat Engine den Prozess **Maine-Win64-Shipping.exe** auswählen und **[[ ENABLE ]]** manuell aktivieren. Die Kompatibilität mit deiner Spielversion ist noch ungeprüft; Status **Working**, manuell gesetzt. Die Anleitung behandelt Singleplayer.
 
 ## Darstellung
 
